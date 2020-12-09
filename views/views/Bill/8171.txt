@@ -1,0 +1,19 @@
+	Personal Information
+
+Permit Date              :20/09/2020
+Bill no                  :8171
+Permit No                :1
+Member Name              :1
+Member Passport No       :2
+Leader Name              :asfd
+Passport Passport No     :1
+
+Cost Information
+
+S.N		Particulars			Amount
+
+1		Permit			2
+2		Garbage Deposit			50000
+3		Insurance			12800
+
+ Total bill:   (50, 12802.0)
